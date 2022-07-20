@@ -2,3 +2,4 @@
 node_modules
 encryptedKey.json
 .gitignore
+hh-fcc.code-workspace
